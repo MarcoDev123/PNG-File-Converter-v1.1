@@ -4,4 +4,4 @@ PNG File Converter is a simple Windows tool for converting PNG images quickly an
 Trial version includes 5 free conversions. Upgrade to Pro for unlimited conversions.
 
 ![image alt](https://github.com/MarcoDev123/PNG-File-Converter-v1.1/blob/main/PNG_File_Converter_about.png?raw=true)
-
+![image alt](https://github.com/MarcoDev123/PNG-File-Converter-v1.1/blob/main/Screenshot%202026-06-06%20190507.png?raw=true)
